@@ -1,0 +1,6 @@
+/home/nxtwave/todo/src/main/java/com/example/todo/TodoApplication.java
+/home/nxtwave/todo/src/main/java/com/example/todo/repository/TodoRepository.java
+/home/nxtwave/todo/src/main/java/com/example/todo/model/Todo.java
+/home/nxtwave/todo/src/main/java/com/example/todo/service/TodoH2Service.java
+/home/nxtwave/todo/src/main/java/com/example/todo/model/TodoRowMapper.java
+/home/nxtwave/todo/src/main/java/com/example/todo/controller/TodoController.java
